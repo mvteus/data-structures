@@ -1,4 +1,6 @@
-public class Arrays {
+package arrays;
+
+public class Vetor {
     public static void main(String[] args) {
         double[] temperatura = new double[365];
         temperatura[0] = 31;
